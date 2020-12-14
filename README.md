@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="public/danileite.jpg">
+    <img src="public/danileite.png">
 </h1>
 
 # Indice
